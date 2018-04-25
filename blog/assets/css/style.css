@@ -1,0 +1,21 @@
+ .container{
+   margin-top: 30px;
+ }
+ .post-date{
+   padding: 4px;
+   margin: 5px 0;
+   display: block;
+   width: 250px; 
+ }
+.create{
+  margin-bottom: 20px;
+}
+.card-header{
+  text-align: center;
+  font-family: roboto;
+  font-weight: 500;
+  font-size: 20px;
+}
+.view-button{
+  margin-bottom: 10px;
+}
